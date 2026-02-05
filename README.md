@@ -9,7 +9,6 @@
 
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![oracle Badge](https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 <br>
